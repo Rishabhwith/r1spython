@@ -1,0 +1,6 @@
+print("\"infotech computer education\"")
+print("building no.-\t45\\6")
+print("first floor, opposite bank of baroda")
+print("ajmer road,kishangarh(raj)")
+print("phone\t-\t9829171122")
+print("website\t-\twww.infotechcomputer.in")
