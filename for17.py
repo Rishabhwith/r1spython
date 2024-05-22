@@ -9,12 +9,7 @@ x         y        ?
 '''
 x=int(input("Enter the size = "))
 y=int(input("Enter the power = "))
-i=1
-print("value\tpower\tresult")
-print("------------------------------")
-while i<=x:
-    result=i**y
-    print(i,"\t",y,"\t",result)
-    i=i+1
+for i in range(1,x):
+    r=i**y
+    print(i,"\t",y,"\t",r)
     y=y+1
-    
