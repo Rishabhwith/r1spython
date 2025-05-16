@@ -14,7 +14,7 @@ if per>=50 and per<=75:
  print("2nd div")
 if per>=33 and per<=50:
  print("3rd div")
-if per<=33+:
+if per<=33:
  print("fail")
 
 

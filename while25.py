@@ -1,4 +1,4 @@
-'enter x values and print their sum and avg'
+'''enter x values and print their sum and avg'''
 i=int(input("enter the statring value = "))
 s=0
 avg=0

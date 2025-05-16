@@ -8,10 +8,10 @@ value      factorial
 5            120 '''
 x=int(input("Enter the starting point = "))
 y=int(input("Enter the ending point = "))
+print("value\tfactorial")
 for i in range(x,y+1):
     factorial=1
-    n=x
-    for i in range(n,0,-1):
-        factorial=factorial*i
+    for j in range(i,0,-1):
+        factorial=factorial*j
     print(i,"\t",factorial)
     
